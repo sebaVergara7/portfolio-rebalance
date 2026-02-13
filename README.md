@@ -120,4 +120,6 @@ Rebalance actions (in dollars): {'META': 1000, 'AAPL': -1000}
 
 Let me know if you'd like to include badges (e.g. build status, Python version), author credits, or links to your GitHub profile to polish it further.
 
+## 📖 Appendix – LLM Usage Log This project was developed with the support of Microsoft Copilot for documentation and presentation tasks. The design, implementation, and technical decisions were mine; Copilot helped accelerate repetitive tasks such as writing docstrings and structuring the README. You can find the detailed log of relevant conversations here: [docs/LLM_USAGE_LOGS.md](docs/LLM_USAGE_LOGS.md)
+
 
