@@ -49,8 +49,7 @@ portfolio-rebalance/
 ├── src/                  # Core logic
 │   ├── __init__.py       # Package initializer
 │   ├── stock.py          # Stock class
-│   ├── portfolio.py      # Portfolio class
-│   └── utils.py          # Example usage
+│   └── portfolio.py      # Portfolio class
 ├── tests/                # Unit tests
 │   └── test_portfolio.py
 ├── examples/             # Executable usage examples
